@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore everything as default
+*
+
+# Add files to track
+!.gitignore
+!.gitconfig
+!.zshrc
+!.vimrc
+!.p10k.zsh

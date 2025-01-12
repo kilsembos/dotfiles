@@ -10,5 +10,7 @@
 !.vimrc
 !.p10k.zsh
 
+# Touchpad Gestures
 !.config/
 !.config/libinput-gestures.conf
+

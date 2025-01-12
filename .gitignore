@@ -9,3 +9,6 @@
 !.zshrc
 !.vimrc
 !.p10k.zsh
+
+!.config/
+!.config/libinput-gestures.conf
